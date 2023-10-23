@@ -1,0 +1,28 @@
+.navbar {
+    display: flex;
+    justify-content: flex-end; /* Align items to the flex end (right) */
+    background-color: #17194B; /* Add a background color */
+    padding: 10px;
+  }
+  
+  .nav-item {
+    list-style: none;
+    display: flex; /* Make the list items a flex container */
+    color: #FFF;
+    font-family: Inter;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+  
+  .nav-link {
+    text-decoration: none; /* Remove underline from links */
+    color: #fff; /* Set text color to white */
+    margin: 0 10px; /* Add some spacing between the items */
+  }
+  .sign_in{
+ border-radius: 20px;
+background: #3199FE;
+  }
+  
